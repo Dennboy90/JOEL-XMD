@@ -9,9 +9,9 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "JOEL~XMD~KX0LJvut",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
       "description": "mode public or self",
@@ -36,7 +36,7 @@
     "ANTI_DELETE": {
       "description": "make it true if you wanna enable antidelete mode",
       "required": false,
-      "value": "false"
+      "value": "true"
       },
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 💚",
@@ -51,12 +51,12 @@
     "AUTO_REPLY_STATUS": {
       "description": "make it true if you want the bot to send message after viewing status else leave blank",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "SUDO_NUMBER": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
       "required": false,
-      "value": "255781144539"
+      "value": "263789085533"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
@@ -71,7 +71,7 @@
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
@@ -91,7 +91,7 @@
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
       "required": false,
-      "value": ""
+      "value": "true"
      },
     "WELCOME": {
       "description": "make it true if you want to enable auto welcome",
